@@ -1,2 +1,1 @@
-# project-ideas
-Best project to put on resume
+# daily tracker program of activities to show consistency
